@@ -1,9 +1,2 @@
-- 👋 Hi, I’m @Jivesh-lab
-- 👀 I’m interested in coding 
-- 🌱 I’m currently learning ai and ml..
-\
-
-<!---
-Jivesh-lab/Jivesh-lab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Disease-prediction-using-Machine-Learning
+This Machine Learning project is used to predict the disease based on the symptoms given by the user.It predicts using three different machine learning algorithms.So,the output is accurate.It uses tkinter for GUI.
