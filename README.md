@@ -22,11 +22,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Jivesh-lab&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=Jivesh-lab&icon=0&color=0)](https://visitcount.itsvg.in)
-
+### 👀 Profile Views
+![](https://komarev.com/ghpvc/?username=Jivesh-lab&label=Profile%20Views&color=0e75b6&style=flat)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
